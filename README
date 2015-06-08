@@ -1,0 +1,7 @@
+This board is an H-Bridge DC Motor Controller. The ratings are yet to be determined (requires calculation).
+The end goal is to support a 12v 60A Electrol Trolling Motor for a boat. This board does NOT have a PWM source (that will be a separate board).
+Licence is CC-BY-SA
+
+This board is a PROTOTYPE until the design is built and tested.
+
+If you'd like to donate so I can buy the full version of Eagle, and make more cool stuff, please contact me through Google+
